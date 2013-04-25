@@ -1,4 +1,4 @@
-# Subversion入門
+# Subversion入門 for Windows
 
 高野 将
 
@@ -11,7 +11,7 @@
 - SVNで競合解決などチーム連携作業ができる。
 - SVNでタグ、ブランチ、マージを活用できる。
 
-なお、OSはWindows、SubversionクライアントにはTortoiseSVNを利用し、svnコマンドの詳細なオプション、使い方については本書の対象外とします。
+なお、OSはWindows、SubversionクライアントにはTortoiseSVNを利用します。CUIでのsvnコマンドの詳細なオプション、使い方については本書の対象外とします。
 
 また、「[VCS入門](https://github.com/masaru-b-cl/introduction-to-vcs)」を既に読み終えていることを前提としています。読んでいない方は、まずこちらからどうぞ。
 
