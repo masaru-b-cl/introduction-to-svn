@@ -20,11 +20,12 @@
 1. [Subversion（SVN）とは？](1.what-is-svn.md "Subversion（SVN）とは？")
 1. [SVNの導入](2.installing-svn.md "SVNの導入")
 1. [個人での利用](3.personal-use.md "個人での利用")
+<!--
 1. [チームでの利用](4.team-use.md "チームでの利用")
 1. [タグの活用](5.tagging.md "タグの活用")
 1. [ブランチの活用](6.branching.md "ブランチの活用")
 1. [様々なマージ](7.various-merge.md "様々なマージ")
-
+-->
 ## ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
 
