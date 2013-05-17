@@ -20,6 +20,7 @@
 1. [Subversion（SVN）とは？](1.what-is-svn.md "Subversion（SVN）とは？")
 1. [SVNの導入](2.installing-svn.md "SVNの導入")
 1. [個人での利用 - リポジトリの作成からインポート](3.personal-use-1.md "個人での利用 - リポジトリの作成からインポート")
+1. [個人での利用 - 作業コピーの作成から最初のコミット](4.personal-use-2.md "個人での利用 - 作業コピーの作成から最初のコミット")
 1. 執筆中...
 
 ## ライセンス
