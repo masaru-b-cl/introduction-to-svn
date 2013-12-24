@@ -30,7 +30,7 @@
 1. [タグとブランチ - ブランチの作成、チェックアウト](11.tag-and-branch-4.md "タグとブランチ - ブランチの作成、チェックアウト")
 1. [タグとブランチ - ブランチの変更、マージ](12.tag-and-branch-5.md "タグとブランチ - ブランチの変更、マージ")
 1. [チームでの利用 - 作業ベース](13.team-use-1.md "チームでの利用 - 作業ベース")
-1. [チームでの利用 - 衝突の解決](14.team-use-2.md "チームでの利用 - 衝突の解決")
+1. [チームでの利用 - 競合の解決](14.team-use-2.md "チームでの利用 - 競合の解決")
 
 ## ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
